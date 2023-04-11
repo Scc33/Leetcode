@@ -1,13 +1,10 @@
-class Solution(object):
+class Solution:
     def removeStars(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        starsStripped = ""
-        for c in s:
-            if c == '*':
-                starsStripped = starsStripped[:-1]
+        st = []
+        for i in range(0, len(s)):
+            if s[i] == '*':
+                st.pop()
             else:
-                starsStripped += c
-        return starsStripped
+                st.append(s[i])
+
+        return ''.join(st)
