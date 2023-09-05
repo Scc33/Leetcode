@@ -17,4 +17,7 @@ class Solution(object):
             else: 
                 right = mid - 1
 
-        return (left_to_return, right) if left_to_return <= right else [-1, -1]
+        if left_to_return <= right:
+            return (left_to_return, right) 
+        else:
+            return [-1, -1]
