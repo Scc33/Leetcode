@@ -1,25 +1,20 @@
 class Solution(object):
     def searchRange(self, nums, target):
-        def binarySearchLeft(A, x):
-            left, right = 0, len(A) - 1
-            while left <= right:
-                mid = (left + right) / 2
-                if x > A[mid]: 
-                    left = mid + 1
-                else: 
-                    right = mid - 1
-            return left
+        left, right = 0, len(nums) - 1
+        while left <= right:
+            mid = (left + right) / 2
+            if target > nums[mid]: 
+                left = mid + 1
+            else: 
+                right = mid - 1
+        left_to_return = left
+                
+        left, right = 0, len(nums) - 1
+        while left <= right:
+            mid = (left + right) / 2
+            if target >= nums[mid]: 
+                left = mid + 1
+            else: 
+                right = mid - 1
 
-        def binarySearchRight(A, x):
-            left, right = 0, len(A) - 1
-            while left <= right:
-                mid = (left + right) / 2
-                if x >= A[mid]: 
-                    left = mid + 1
-                else: 
-                    right = mid - 1
-            return right
-
-        left = binarySearchLeft(nums, target)
-        right = binarySearchRight(nums, target)
-        return (left, right) if left <= right else [-1, -1]
+        return (left_to_return, right) if left_to_return <= right else [-1, -1]
