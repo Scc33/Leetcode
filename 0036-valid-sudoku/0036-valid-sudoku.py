@@ -13,5 +13,4 @@ class Solution(object):
                     seen.add(row)
                     seen.add(column)
                     seen.add(block)
-        print(seen)
         return True
