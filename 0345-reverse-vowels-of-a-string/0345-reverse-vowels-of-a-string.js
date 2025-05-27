@@ -7,12 +7,12 @@ var reverseVowels = function(s) {
   let vowelsInWord = s.split('').filter((letter) => vowels.includes(letter)).reverse();
   let vowelToUse = 0;
   let reversedVowels = "";
-  for (let i = 0; i < s.length; i++) {
-    if (vowels.includes(s[i])) {
+  for (const letter of s) {
+    if (vowels.includes(letter)) {
         reversedVowels += vowelsInWord[vowelToUse];
         vowelToUse++;
     } else {
-        reversedVowels += s[i];
+        reversedVowels += letter;
     }
   }
   return reversedVowels;
