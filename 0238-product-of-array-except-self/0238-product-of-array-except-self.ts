@@ -1,13 +1,14 @@
 function productExceptSelf(nums: number[]): number[] {
-    let products = [];
+    let products = Array(nums.length).fill(1);
+    let prefixProduct = 1;
     for (let i = 0; i < nums.length; i++) {
-        let product = 1
-        for (let j = 0; j < nums.length; j++) {
-            if (i !== j) {
-                product *= nums[j]
-            }
-        }
-        products.push(product);
+        products[i] *= prefixProduct
+        prefixProduct *= nums[i]
+    }
+    let suffixProduct = 1;
+    for (let i = nums.length - 1; i >= 0; i--) {
+        products[i] *= suffixProduct
+        suffixProduct *= nums[i]
     }
     return products;
 };
