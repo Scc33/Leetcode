@@ -10,12 +10,14 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0151-reverse-words-in-a-string](https://github.com/Scc33/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Scc33/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Scc33/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Scc33/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Scc33/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Scc33/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Scc33/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -36,4 +38,8 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Scc33/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
