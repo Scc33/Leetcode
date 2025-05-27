@@ -19,10 +19,15 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Scc33/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Scc33/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Scc33/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Scc33/Leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Scc33/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
