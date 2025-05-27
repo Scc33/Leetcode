@@ -30,4 +30,8 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Scc33/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Scc33/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
