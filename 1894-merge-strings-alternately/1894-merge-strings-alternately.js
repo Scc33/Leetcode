@@ -4,19 +4,12 @@
  * @return {string}
  */
 var mergeAlternately = function(word1, word2) {
-    let merged = "";
-    let pointer1 = 0;
-    let pointer2 = 0;
-    while (pointer1 < word1.length && pointer2 < word2.length) {
-        merged += word1[pointer1];
-        merged += word2[pointer2];
-        pointer1++;
-        pointer2++;
+    let response = "";
+
+    for (let i = 0; i < Math.max(word1.length, word2.length); i++) {
+        if (i < word1.length) response += word1[i];
+        if (i < word2.length) response += word2[i];
     }
-    if (pointer1 < word1.length) {
-        merged += word1.substring(pointer1)
-    } else {
-        merged += word2.substring(pointer1)
-    }
-    return merged;
+    
+    return response;
 };
