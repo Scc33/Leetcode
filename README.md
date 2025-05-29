@@ -27,6 +27,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0605-can-place-flowers](https://github.com/Scc33/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Scc33/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Scc33/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Scc33/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0199-binary-tree-right-side-view](https://github.com/Scc33/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Scc33/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Scc33/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
