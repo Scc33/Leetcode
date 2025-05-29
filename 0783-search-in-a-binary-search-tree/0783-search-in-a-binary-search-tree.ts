@@ -13,19 +13,16 @@
  */
 
 function searchBST(root: TreeNode | null, val: number): TreeNode | null {
-    if (root == null) {
-        return null;
-    }
     let queue = [root];
-    while (queue.length) {
+    while (queue.length > 0) {
         let node = queue.shift();
         if (node.val === val) {
             return node;
         }
-        if (node.right !== null) {
+        if (node.right) {
             queue.push(node.right);
         }
-        if (node.left !== null) {
+        if (node.left) {
             queue.push(node.left);
         }
     }
