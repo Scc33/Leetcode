@@ -85,9 +85,14 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Scc33/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Scc33/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Scc33/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
