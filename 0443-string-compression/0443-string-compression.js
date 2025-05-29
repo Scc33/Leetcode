@@ -17,7 +17,6 @@ var compress = function(chars) {
         } else {
             chars[placingPointer] = letter;
             const countChars = [...String(count)];
-            console.log(countChars)
             chars.splice(placingPointer+1, countChars.length, ...countChars);
             placingPointer += 1 + countChars.length;
         }
