@@ -19,12 +19,15 @@ function searchBST(root: TreeNode | null, val: number): TreeNode | null {
         if (node.val === val) {
             return node;
         }
-        if (node.right) {
-            queue.push(node.right);
-        }
-        if (node.left) {
-            queue.push(node.left);
-        }
+        if (node.val > val) {
+            if (node.left) {
+                queue.push(node.left);
+            }
+        } else {
+            if (node.right) {
+                queue.push(node.right);
+            }
+        } 
     }
     return null;
 };
