@@ -11,6 +11,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0283-move-zeroes](https://github.com/Scc33/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Scc33/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Scc33/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Scc33/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -18,6 +19,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0151-reverse-words-in-a-string](https://github.com/Scc33/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Scc33/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Scc33/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Scc33/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
