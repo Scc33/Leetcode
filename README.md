@@ -43,6 +43,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Scc33/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -95,4 +96,8 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Scc33/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Scc33/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
