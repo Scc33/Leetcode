@@ -123,6 +123,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Scc33/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Scc33/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -131,6 +132,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Scc33/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Scc33/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -147,9 +149,11 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Scc33/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Scc33/Leetcode/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Scc33/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Scc33/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Scc33/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
