@@ -123,4 +123,12 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Scc33/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Scc33/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Scc33/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
