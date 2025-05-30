@@ -58,6 +58,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | ------- |
 | [0338-counting-bits](https://github.com/Scc33/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Scc33/Leetcode/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Scc33/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -78,6 +80,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0199-binary-tree-right-side-view](https://github.com/Scc33/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0904-leaf-similar-trees](https://github.com/Scc33/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -95,6 +98,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Scc33/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Scc33/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
