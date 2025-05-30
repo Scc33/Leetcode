@@ -28,6 +28,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Scc33/Leetcode/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/Scc33/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Scc33/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Scc33/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Scc33/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -116,6 +117,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Scc33/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Scc33/Leetcode/tree/master/0338-counting-bits) |
 ## Design
 |  |
