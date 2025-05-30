@@ -17,7 +17,5 @@ class Solution:
             if idx % 2 == 1:
                 lastOdd = node
             idx += 1
-        print(node)
-        print(evens)
         lastOdd.next = evens
         return head
