@@ -6,7 +6,7 @@ function memoize(fn: Fn): Fn {
     
     return function(...args) {
         const key = JSON.stringify(args);
-        if (key in memoized) {
+        if (key in memoized) { // need to check for key being in the function. Not if value is falsy or not
             return memoized[key];
         }
         const result = fn.apply(this, args);
