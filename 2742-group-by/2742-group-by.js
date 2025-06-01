@@ -4,14 +4,14 @@
  */
 Array.prototype.groupBy = function(fn) {
     let grouping = {};
-    for (const obj of this) {
-        let key = fn(obj);
+    return this.reduce((grouped, item) => {
+        let key = fn(item);
         if (!grouping[key]) {
             grouping[key] = [];
         }
-        grouping[key].push(obj)            
-    }
-    return grouping;
+        grouping[key].push(item);
+        return grouping;      
+    }, {});
 };
 
 /**
