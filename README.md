@@ -28,6 +28,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Scc33/Leetcode/tree/master/0011-container-with-most-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Scc33/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Scc33/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Scc33/Leetcode/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Scc33/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Scc33/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Scc33/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -96,6 +98,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Scc33/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Scc33/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Scc33/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -105,6 +108,7 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0374-guess-number-higher-or-lower](https://github.com/Scc33/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Matrix
@@ -156,4 +160,8 @@ Updates with solutions from leetcode using [Leethub](https://github.com/QasimWan
 | ------- |
 | [0739-daily-temperatures](https://github.com/Scc33/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Scc33/Leetcode/tree/master/0937-online-stock-span) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Scc33/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
